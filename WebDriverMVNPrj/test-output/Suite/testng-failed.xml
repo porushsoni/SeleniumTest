@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="testnglearning.CustomListeners"/>
+  </listeners>
+  <test name="User Registration Test">
+    <classes>
+      <class name="testnglearning.TestCase1"/>
+    </classes>
+  </test> <!-- User Registration Test -->
+  <test name="Validating Title Test">
+    <classes>
+      <class name="testnglearning.TestCase2"/>
+    </classes>
+  </test> <!-- Validating Title Test -->
+  <test name="Dependency Test">
+    <classes>
+      <class name="testnglearning.TestCase3"/>
+    </classes>
+  </test> <!-- Dependency Test -->
+  <test name="Dependency Test(failed)">
+    <classes>
+      <class name="testnglearning.TestCase3">
+        <methods>
+          <include name="doUserReg"/>
+          <include name="doLogin"/>
+          <include name="isSkip"/>
+        </methods>
+      </class> <!-- testnglearning.TestCase3 -->
+      <class name="testnglearning.TestCase1">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="closingDBConn"/>
+          <include name="creatingDBConn"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testnglearning.TestCase1 -->
+    </classes>
+  </test> <!-- Dependency Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

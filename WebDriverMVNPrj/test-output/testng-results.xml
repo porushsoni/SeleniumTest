@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51" started-at="2019-06-11T12:31:46Z" finished-at="2019-06-11T12:31:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51" started-at="2019-06-11T12:31:46Z" finished-at="2019-06-11T12:31:46Z">
+      <class name="testnglearning.HardAssertionExample">
+        <test-method status="FAIL" signature="assertEquals()[pri:0, instance:testnglearning.HardAssertionExample@28f67ac7]" name="assertEquals" duration-ms="17" started-at="2019-06-11T18:01:46Z" finished-at="2019-06-11T18:01:46Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [This assertion will fail] but found [assertion]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [This assertion will fail] but found [assertion]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at testnglearning.HardAssertionExample.assertEquals(HardAssertionExample.java:13)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:822)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1130)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertEquals -->
+        <test-method status="PASS" signature="assertNotEquals()[pri:2, instance:testnglearning.HardAssertionExample@28f67ac7]" name="assertNotEquals" duration-ms="2" started-at="2019-06-11T18:01:46Z" finished-at="2019-06-11T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotEquals -->
+        <test-method status="PASS" signature="assertTrue()[pri:3, instance:testnglearning.HardAssertionExample@28f67ac7]" name="assertTrue" duration-ms="1" started-at="2019-06-11T18:01:46Z" finished-at="2019-06-11T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTrue -->
+        <test-method status="PASS" signature="assertFalse()[pri:4, instance:testnglearning.HardAssertionExample@28f67ac7]" name="assertFalse" duration-ms="1" started-at="2019-06-11T18:01:46Z" finished-at="2019-06-11T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertFalse -->
+        <test-method status="PASS" signature="assertNull()[pri:5, instance:testnglearning.HardAssertionExample@28f67ac7]" name="assertNull" duration-ms="1" started-at="2019-06-11T18:01:46Z" finished-at="2019-06-11T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNull -->
+        <test-method status="PASS" signature="assertNotNull()[pri:6, instance:testnglearning.HardAssertionExample@28f67ac7]" name="assertNotNull" duration-ms="2" started-at="2019-06-11T18:01:46Z" finished-at="2019-06-11T18:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotNull -->
+      </class> <!-- testnglearning.HardAssertionExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

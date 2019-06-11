@@ -1,0 +1,92 @@
+INFO    2019-06-07 19:28:57,330 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-07 19:28:57,332 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-07 19:29:01,890 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-07 19:29:06,647 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+INFO    2019-06-07 19:29:08,147 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-07 19:29:08,421 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+INFO    2019-06-07 19:29:09,183 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-07 19:29:09,625 [main] TestPropertiesKeyword  - Click on an element: pwdBtn_XPATH
+INFO    2019-06-07 19:29:16,968 [main] TestPropertiesKeyword  - Test Execution Completed !!!!
+INFO    2019-06-07 19:29:39,829 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-07 19:29:39,831 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-07 19:29:43,519 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-07 19:29:47,243 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+INFO    2019-06-07 19:29:48,823 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-07 19:29:49,056 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+INFO    2019-06-07 19:29:49,779 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-07 19:29:50,194 [main] TestPropertiesKeyword  - Click on an element: pwdBtn_XPATH
+INFO    2019-06-07 19:29:57,531 [main] TestPropertiesKeyword  - Test Execution Completed !!!!
+INFO    2019-06-07 19:30:29,419 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-07 19:30:29,421 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-07 19:30:33,330 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-07 19:30:37,691 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+INFO    2019-06-07 19:30:39,160 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-07 19:30:39,371 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+INFO    2019-06-07 19:30:40,284 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-07 19:30:40,723 [main] TestPropertiesKeyword  - Click on an element: pwdBtn_XPATH
+INFO    2019-06-07 19:30:48,067 [main] TestPropertiesKeyword  - Test Execution Completed !!!!
+INFO    2019-06-07 19:30:57,398 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-07 19:30:57,400 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-07 19:31:01,277 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-07 19:31:04,729 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+INFO    2019-06-07 19:31:06,204 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-07 19:31:06,460 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+INFO    2019-06-07 19:31:07,341 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-07 19:31:07,803 [main] TestPropertiesKeyword  - Click on an element: pwdBtn_XPATH
+INFO    2019-06-07 19:31:14,882 [main] TestPropertiesKeyword  - Test Execution Completed !!!!
+INFO    2019-06-09 16:25:15,262 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-09 16:25:15,264 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-09 16:25:19,677 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-09 16:25:23,195 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+INFO    2019-06-09 16:25:24,953 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-09 16:25:25,266 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+INFO    2019-06-09 16:25:26,047 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-09 16:25:26,515 [main] TestPropertiesKeyword  - Click on an element: pwdBtn_XPATH
+INFO    2019-06-09 16:25:33,601 [main] TestPropertiesKeyword  - Test Execution Completed !!!!
+INFO    2019-06-09 16:27:14,605 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-09 16:27:14,607 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-09 16:27:18,493 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-09 16:27:23,012 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+ERROR   2019-06-09 16:27:24,163 [main] TestPropertiesKeyword  - Cannot find elements when the XPath is null.
+INFO    2019-06-09 16:27:31,898 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-09 16:27:32,089 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+ERROR   2019-06-09 16:27:42,155 [main] TestPropertiesKeyword  - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='password']/div[1]/div/div[1]/input"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ABC-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\abc\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49670}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 9b8d11d90c03d4374a0a73f56234f8b4
+*** Element info: {Using=xpath, value=//*[@id='password']/div[1]/div/div[1]/input}
+INFO    2019-06-09 16:27:49,077 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-09 16:28:22,009 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-09 16:28:22,011 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-09 16:28:25,964 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-09 16:28:30,377 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+INFO    2019-06-09 16:28:31,860 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-09 16:28:32,091 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+INFO    2019-06-09 16:28:32,694 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****
+INFO    2019-06-09 16:28:32,999 [main] TestPropertiesKeyword  - Click on an element: pwdBtn_XPATH
+INFO    2019-06-09 16:28:40,209 [main] TestPropertiesKeyword  - Test Execution Completed !!!!
+INFO    2019-06-09 16:32:46,376 [main] TestPropertiesKeyword  - OR properties Loaded
+INFO    2019-06-09 16:32:46,377 [main] TestPropertiesKeyword  - Config properties Loaded
+INFO    2019-06-09 16:32:50,259 [main] TestPropertiesKeyword  - Chrome Browser Launched !!!!
+INFO    2019-06-09 16:32:53,467 [main] TestPropertiesKeyword  - Navigated to : https://www.gmail.com/
+ERROR   2019-06-09 16:32:54,593 [main] TestPropertiesKeyword  - Cannot find elements when the XPath is null.
+INFO    2019-06-09 16:33:01,656 [main] TestPropertiesKeyword  - Typing in an element username_XPATH with entered value as priyankaverma1210@gmail.com
+INFO    2019-06-09 16:33:01,785 [main] TestPropertiesKeyword  - Click on an element: userBtn_XPATH
+ERROR   2019-06-09 16:33:11,844 [main] TestPropertiesKeyword  - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='password']/div[1]/div/div[1]/input"}
+  (Session info: chrome=74.0.3729.169)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 6.1.7600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ABC-PC', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\abc\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49770}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.169, webStorageEnabled: true}
+Session ID: 3437e6b42cce6742773108c13e944319
+*** Element info: {Using=xpath, value=//*[@id='password']/div[1]/div/div[1]/input}
+INFO    2019-06-09 16:33:18,227 [main] TestPropertiesKeyword  - Typing in an element password_XPATH with entered value as ****

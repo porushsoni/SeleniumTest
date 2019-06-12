@@ -1,7 +1,6 @@
 package testnglearning;
 
 import org.testng.Assert;
-import org.testng.Reporter;
 import org.testng.SkipException;
 import org.testng.annotations.Test;
 
